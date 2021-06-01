@@ -4,7 +4,7 @@
   ],
   "labels": ["automerge", "dependencies-update"],
   "additionalBranchPrefix": "chore/",
-  "assignees": ["vtex/faststore", "vtex/store-framework"],
+  "reviewers": ["vtex:faststore", "vtex:store-framework"],
   "packageRules": [
     {
       "matchSourceUrlPrefixes": ["https://github.com/vtex/faststore"],
