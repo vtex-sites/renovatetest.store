@@ -14,5 +14,5 @@
     }
   ],
   "schedule": ["after 9am and before 6pm every weekday"],
-  "timezone": "BR"
+  "timezone": "America/Sao_Paulo"
 }
