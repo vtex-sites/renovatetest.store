@@ -1,5 +1,18 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "labels": ["automerge", "dependencies-update"],
+  "additionalBranchPrefix": "chore/",
+  "assignees": ["vtex/faststore", "vtex/store-framework"],
+  "packageRules": [
+    {
+      "matchPackagePrefixes": ["@vtex/"],
+      "matchUpdateTypes": ["minor", "patch"],
+      "groupName": "VTEX Dependencies",
+      "automerge": true
+    }
+  ],
+  "schedule": ["after 9am and before 6pm every weekday"],
+  "timezone": "BR"
 }
