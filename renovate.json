@@ -3,11 +3,10 @@
     "config:base"
   ],
   "labels": ["automerge", "dependencies-update"],
-  "additionalBranchPrefix": "chore/",
   "reviewers": ["vtex:faststore", "vtex:store-framework"],
   "packageRules": [
     {
-      "matchSourceUrlPrefixes": ["https://github.com/vtex/faststore"],
+      "matchPackagePatterns": ["^@vtex/"],
       "matchUpdateTypes": ["minor", "patch"],
       "groupName": "VTEX Dependencies",
       "automerge": true
