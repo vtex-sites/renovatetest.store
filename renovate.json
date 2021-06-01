@@ -7,7 +7,7 @@
   "assignees": ["vtex/faststore", "vtex/store-framework"],
   "packageRules": [
     {
-      "matchPackagePrefixes": ["@vtex/"],
+      "matchSourceUrlPrefixes": ["https://github.com/vtex/faststore"],
       "matchUpdateTypes": ["minor", "patch"],
       "groupName": "VTEX Dependencies",
       "automerge": true
