@@ -23,8 +23,8 @@
     "gatsby-plugin-next-seo": "^1.7.0",
     "gatsby-plugin-offline": "^4.2.0",
     "gatsby-plugin-robots-txt": "^1.5.1",
-    "react": "^0.0.0-experimental-7f28234f8",
-    "react-dom": "^0.0.0-experimental-7f28234f8",
+    "react": "0.14.10",
+    "react-dom": "0.14.10",
     "react-helmet-async": "^1.0.9",
     "webpack-merge": "^5.7.3",
     "yarn": "^1.22.10"
