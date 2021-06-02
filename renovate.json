@@ -2,6 +2,7 @@
   "extends": [
     "config:base"
   ],
+  "rangeStrategy": "replace",
   "labels": ["automerge", "dependencies-update"],
   "reviewers": ["vtex:faststore", "vtex:store-framework"],
   "packageRules": [
