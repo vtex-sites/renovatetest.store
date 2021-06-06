@@ -2,7 +2,7 @@
   "labels": ["automerge", "dependencies-update"],
   "reviewers": ["vtex:faststore", "vtex:store-framework"],
   "packageRules": [{
-		"packagePatterns": ["*"],
+		"matchPackagePatterns": ["*"],
 		"enabled": false
 	},
   {
