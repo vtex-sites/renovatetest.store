@@ -6,9 +6,8 @@
   "reviewers": ["vtex:faststore", "vtex:store-framework"],
   "packageRules": [
     {
-      "matchPackagePatterns": ["*"],
-    "excludePackagePatterns": ["^@vtex/"],
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "matchPackagePatterns": ["^@vtex/"],
+      "matchUpdateTypes": ["minor", "patch", "digest"],
       "groupName": "VTEX Dependencies",
       "automerge": true
     }
