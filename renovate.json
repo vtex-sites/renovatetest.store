@@ -2,16 +2,13 @@
   "labels": ["automerge", "dependencies-update"],
   "reviewers": ["vtex:faststore", "vtex:store-framework"],
   "packageRules": [{
-		"matchPackagePatterns": ["*"],
-		"enabled": false
-	},
-  {
-    "matchPackagePatterns": ["^@vtex/"],
+    "automerge": true,
+    "matchPackagePatterns": ["*"],
+    "excludePackagePatterns": ["^@vtex/"],
     "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
     "groupName": "VTEX Dependencies",
-    "automerge": true
-  }
-  ],
+    "enabled": false
+  }],
   "schedule": ["after 9am and before 8pm"],
   "timezone": "America/Sao_Paulo"
 }
