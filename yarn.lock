@@ -2712,10 +2712,10 @@
     "@graphql-tools/relay-operation-optimizer" "^6.0.15"
     fs-extra "^9.0.1"
 
-"@vtex/gatsby-plugin-i18n@0.365.0":
-  version "0.365.0"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-i18n/-/gatsby-plugin-i18n-0.365.0.tgz#abb993ea58b58c7197f8a9d68cc7cb39347736bb"
-  integrity sha512-Rh7UQc2pjrgyRPLWCKCYJU9smQuydXb5ZZld4h/YwmFnMCRsIq2oDEdUMKzG14c7Ww46/b2Nylr9xm6MDh9HoA==
+"@vtex/gatsby-plugin-i18n@0.368.0":
+  version "0.368.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-i18n/-/gatsby-plugin-i18n-0.368.0.tgz#62c0f31f65d771a3739cabe8604ad4a9438cbcb1"
+  integrity sha512-Mi1GSvZposA2gFcp2Z+IQxtY3pScIH3P6UphxgSCcE7qVTZpS+O7QTPv8OxgOQuePk6mt4BJUDJ73cD7X00dDA==
   dependencies:
     "@babel/parser" "^7.12.7"
     "@babel/preset-typescript" "^7.12.7"
