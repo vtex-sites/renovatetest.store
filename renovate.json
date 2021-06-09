@@ -6,6 +6,7 @@
   "reviewers": ["vtex:faststore", "vtex:store-framework"],
   "packageRules": [
     {
+      "excludePackagePatterns": ["*"],
       "matchPackagePatterns": ["^@vtex/"],
       "matchUpdateTypes": ["minor", "patch", "digest"],
       "groupName": "VTEX Dependencies",
