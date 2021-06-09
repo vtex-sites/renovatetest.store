@@ -1,18 +1,5 @@
 {
   "extends": [
-    "config:base"
-  ],
-  "labels": ["automerge", "VTEX"],
-  "reviewers": ["vtex:faststore", "vtex:store-framework"],
-  "packageRules": [
-    {
-      "excludePackagePatterns": ["*"],
-      "matchPackagePatterns": ["^@vtex/"],
-      "matchUpdateTypes": ["minor", "patch", "digest"],
-      "groupName": "VTEX Dependencies",
-      "automerge": true
-    }
-  ],
-  "schedule": ["after 9am and before 6pm every weekday"],
-  "timezone": "America/Sao_Paulo"
+    "git:vtex/faststore/tree/feat/renovate-config/packages/renovate-config"
+  ]
 }
