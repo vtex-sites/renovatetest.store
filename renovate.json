@@ -13,6 +13,6 @@
       "automerge": true
     }
   ],
-  "schedule": ["after 9am and before 10pm every weekday"],
+  "schedule": ["after 9am and before 6pm every weekday"],
   "timezone": "America/Sao_Paulo"
 }
