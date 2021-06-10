@@ -3404,6 +3404,11 @@
   resolved "https://registry.yarnpkg.com/@vtex/prettier-config/-/prettier-config-0.3.6.tgz#31762608d9a59b815b6d4e963e439b12f1a12279"
   integrity sha512-nXE3BcMODomFK3EowfK+Hdj2qQRqB8JcdRv8yTREXnN9xq8DYKmH/dWB+RY/Hn3KozFLbygpZRbqYsiA6HDINQ==
 
+"@vtex/renovate-config@^0.370.0":
+  version "0.370.0"
+  resolved "https://registry.yarnpkg.com/@vtex/renovate-config/-/renovate-config-0.370.0.tgz#a3bb8091a046bbcd33d7430f5c6b7c7d42828ef7"
+  integrity sha512-4vt/MJw9ab/m9yexGRniu92vnZhfIYii2uja2xYMI4ur3kyAx/Ro9/Nf7YCwPL1OgOORW6UM8Gwg2YKbyLIHyA==
+
 "@vtex/store-sdk@0.368.1":
   version "0.368.1"
   resolved "https://registry.yarnpkg.com/@vtex/store-sdk/-/store-sdk-0.368.1.tgz#9aa7cdd820f372761999901f6b23dc7467adf8f8"
