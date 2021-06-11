@@ -1,4 +1,3 @@
 {
-  "extends": ["@vtex/renovate-config"],
-  "reviewers": ["team:store-framework"]
+  "extends": ["@vtex/renovate-config"]
 }
