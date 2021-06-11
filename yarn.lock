@@ -3314,10 +3314,10 @@
     kebab-hash "^0.1.2"
     webpack-assets-manifest "^5.0.6"
 
-"@vtex/gatsby-plugin-performance@0.368.1":
-  version "0.368.1"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-performance/-/gatsby-plugin-performance-0.368.1.tgz#f6badfb881f7feb95bd26377085d140bb5b1f352"
-  integrity sha512-bW46Z5JiOCDbyAWOJKMDhXmHhInVjusaTAYXmV2urB3g7njE8uMIWzCDBMa31TKxoqpQ3JGPHN7VubtW1swy1w==
+"@vtex/gatsby-plugin-performance@0.370.0":
+  version "0.370.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-performance/-/gatsby-plugin-performance-0.370.0.tgz#8d56d1cc0efd8bf16aae4ec5498fe8ebbf26fe7d"
+  integrity sha512-VqbrnEj9O3WnxbRCE+zmBbVxWV6NMTT0bf1p7xMWO+nhEmdHyX7YdE3Vaw7SqFwS5PpjBx6Gf9ZTkPovKCCQYQ==
 
 "@vtex/gatsby-plugin-pixel-facebook@0.368.1":
   version "0.368.1"
