@@ -12,7 +12,7 @@
     "@vtex/gatsby-plugin-pixel-facebook": "0.368.1",
     "@vtex/gatsby-plugin-theme-ui": "0.368.1",
     "@vtex/gatsby-source-vtex": "0.368.1",
-    "@vtex/gatsby-theme-store": "0.368.1",
+    "@vtex/gatsby-theme-store": "0.371.13",
     "@vtex/renovate-config": "0.370.0",
     "@vtex/store-sdk": "0.368.1",
     "@vtex/store-ui": "0.368.1",
