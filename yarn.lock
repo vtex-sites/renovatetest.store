@@ -3319,10 +3319,10 @@
   resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-performance/-/gatsby-plugin-performance-0.368.1.tgz#f6badfb881f7feb95bd26377085d140bb5b1f352"
   integrity sha512-bW46Z5JiOCDbyAWOJKMDhXmHhInVjusaTAYXmV2urB3g7njE8uMIWzCDBMa31TKxoqpQ3JGPHN7VubtW1swy1w==
 
-"@vtex/gatsby-plugin-pixel-facebook@0.368.1":
-  version "0.368.1"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-pixel-facebook/-/gatsby-plugin-pixel-facebook-0.368.1.tgz#5799a37214e7ca41b13af966c07bf7249e3e5186"
-  integrity sha512-7JVw4jYPEYSTmrKNUreyw2jvs0mjTjWjx49BVh3/1UoZM/gd6xT9uMz7LyNRneFmbYihIwuUkMUKk2ae95ceDw==
+"@vtex/gatsby-plugin-pixel-facebook@0.371.13":
+  version "0.371.13"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-pixel-facebook/-/gatsby-plugin-pixel-facebook-0.371.13.tgz#e2dca3eb5ab2e257a0ca4dc9ecd3c4e49330202d"
+  integrity sha512-UUDxTr5bTqubExTOr4FmqqxKu9mwujxdwKjUtUk4DTWj8gnzxP22diE4hDFuNzPeUqw81DiBTqT6AcKT2e8Mew==
 
 "@vtex/gatsby-plugin-theme-ui@0.368.1", "@vtex/gatsby-plugin-theme-ui@^0.368.1":
   version "0.368.1"
