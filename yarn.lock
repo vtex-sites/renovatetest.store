@@ -3276,10 +3276,10 @@
     gatsby-graphql-source-toolkit "^0.6.3"
     p-map "^4.0.0"
 
-"@vtex/gatsby-plugin-google-tag-manager@0.370.0":
-  version "0.370.0"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-google-tag-manager/-/gatsby-plugin-google-tag-manager-0.370.0.tgz#94d79a514ea476eab290b015a57553c1a54e4f7f"
-  integrity sha512-rhpLpTpYRRBDE68IbdMVchgtmpllens0rYJXmZPv/XZGi3JO9SX9+2eUS6sU5brsCzlj1uVBnqgXmJ8GrSxoBA==
+"@vtex/gatsby-plugin-google-tag-manager@0.371.13":
+  version "0.371.13"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-google-tag-manager/-/gatsby-plugin-google-tag-manager-0.371.13.tgz#d5321f5727435234661a4d9900ec34f8dd69367c"
+  integrity sha512-pJXxHlxxtCbKokFPkr+tLuN+Xrca7IbKCD3apKuOyGqDMsOFm66SrTU5Rhh+SD1LQvxct3naP1oB5YEc9D5NEg==
 
 "@vtex/gatsby-plugin-graphql@0.368.1", "@vtex/gatsby-plugin-graphql@^0.368.1":
   version "0.368.1"
