@@ -3324,7 +3324,21 @@
   resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-pixel-facebook/-/gatsby-plugin-pixel-facebook-0.368.1.tgz#5799a37214e7ca41b13af966c07bf7249e3e5186"
   integrity sha512-7JVw4jYPEYSTmrKNUreyw2jvs0mjTjWjx49BVh3/1UoZM/gd6xT9uMz7LyNRneFmbYihIwuUkMUKk2ae95ceDw==
 
-"@vtex/gatsby-plugin-theme-ui@0.368.1", "@vtex/gatsby-plugin-theme-ui@^0.368.1":
+"@vtex/gatsby-plugin-theme-ui@0.371.13":
+  version "0.371.13"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.371.13.tgz#1740033d0ce865c8e41b5d8515f4eaf33ec473e3"
+  integrity sha512-aqzqSWcqfH236o8/qoCoz/FVmTFOVVSPanKeZOXXHA6THugRRFO4bhZoUwT6mQ6B/Ozj0vSWxf1JlHOtwtmwxQ==
+  dependencies:
+    "@babel/core" "^7.11.4"
+    "@babel/parser" "^7.11.4"
+    "@babel/preset-typescript" "^7.10.4"
+    "@babel/register" "^7.11.5"
+    "@babel/traverse" "^7.11.0"
+    "@babel/types" "^7.11.0"
+    create-emotion-server "^10.0.27"
+    theme-ui "^0.3.1"
+
+"@vtex/gatsby-plugin-theme-ui@^0.368.1":
   version "0.368.1"
   resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.368.1.tgz#0d535295e2a02112494b0ac72cbe247d471cfee0"
   integrity sha512-UiFIFVN7ixCoL5L1eKjd2m9GnnKjH+yF3HT8x0fNkluVj2aQOFGQDfMZaY9k/4hUzC3Jza8HxJt6lc3douu0lg==
