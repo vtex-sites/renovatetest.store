@@ -14,7 +14,7 @@
     "@vtex/gatsby-source-vtex": "0.368.1",
     "@vtex/gatsby-theme-store": "0.368.1",
     "@vtex/renovate-config": "0.370.0",
-    "@vtex/store-sdk": "0.368.1",
+    "@vtex/store-sdk": "0.371.13",
     "@vtex/store-ui": "0.368.1",
     "babel-preset-gatsby": "1.1.0",
     "csvtojson": "2.0.10",

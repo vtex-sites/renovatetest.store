@@ -3409,10 +3409,10 @@
   resolved "https://registry.yarnpkg.com/@vtex/renovate-config/-/renovate-config-0.370.0.tgz#a3bb8091a046bbcd33d7430f5c6b7c7d42828ef7"
   integrity sha512-4vt/MJw9ab/m9yexGRniu92vnZhfIYii2uja2xYMI4ur3kyAx/Ro9/Nf7YCwPL1OgOORW6UM8Gwg2YKbyLIHyA==
 
-"@vtex/store-sdk@0.368.1":
-  version "0.368.1"
-  resolved "https://registry.yarnpkg.com/@vtex/store-sdk/-/store-sdk-0.368.1.tgz#9aa7cdd820f372761999901f6b23dc7467adf8f8"
-  integrity sha512-yVG5LcccRYRRMqdiFY9irvIbLw09ftvzQGBJ3moSiOXN77w745LTrGYhrVxDp1AhSR1lpDtFCbjKMyWRSzjZYg==
+"@vtex/store-sdk@0.371.13":
+  version "0.371.13"
+  resolved "https://registry.yarnpkg.com/@vtex/store-sdk/-/store-sdk-0.371.13.tgz#b92137a321a06f9a9023ff5e0b443bbe24735025"
+  integrity sha512-f6bg2QwwR+ve7iACLe4MNf+X8sLLeH8b+j4636AfFp6+AawfzMUlTQnGSBsw2B79QPjMbLBDjqZ80xupJuQgNg==
 
 "@vtex/store-ui@0.368.1":
   version "0.368.1"
