@@ -1,31 +1,3 @@
 {
-  "extends": ["config:base", ":timezone(America/Sao_Paulo)"],
-  "labels": ["renovate", "automerge", "faststore"],
-  "schedule": ["after 9am and before 6pm every weekday"],
-  "reviewers": ["team:store-framework"],
-  "pin": {
-    "automerge": true
-  },
-  "packageRules": [
-    {
-      "packagePatterns": ["*"],
-      "excludePackagePatterns": ["^@vtex/"],
-      "enabled": false
-    },
-    {
-      "enabled": true,
-      "matchPackagePatterns": ["^@vtex/"],
-      "matchUpdateTypes": ["minor", "patch", "digest", "pin"],
-      "groupName": "Faststore Dependencies",
-      "major": {
-        "automerge": false
-      },
-      "minor": {
-        "automerge": true
-      },
-      "patch": {
-        "automerge": true
-      }
-    }
-  ]
+  "extends": ["@vtex"]
 }
